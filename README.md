@@ -5,5 +5,4 @@ View the working demo at:
 
 https://michaelkeizers.github.io/superheroes-json/
 
-![superheroes-json](images/screenshot_superheroes.png)
-![my terrarium](images/screenshot_gray.png)
+![superheroes](images/screenshot_superheroes.png)
