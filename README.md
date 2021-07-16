@@ -5,4 +5,4 @@ View the working demo at:
 
 https://michaelkeizers.github.io/superheroes-json/
 
-![superheroes](images/screenshot_superheroes.png)
+[superheroes](images/screenshot_superheroes.png)
